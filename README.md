@@ -16,11 +16,6 @@ et la comparaison de plusieurs classificateurs.
 - Langage : Python
 - Domaine : Machine Learning / Science des données
 
-## Exécution
-```bash
-python main.py
-```
-
 ## Contexte académique
 Université Paris-Saclay — L1 Portail Maths-Informatique
 Cours : Initiation à la Science des données (ISD)
